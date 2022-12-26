@@ -10,7 +10,7 @@
 
 Clone o projeto:
 ```
-git clone https://github.com/joaopedro1997/
+git clone https://github.com/joaopedro1997/yii-task-crud.git
 ```
 ### Com Make
 Execute o arquivo make (faz a inicialização dos containers, executa o comando `composer install` e executa as `migrations`):
