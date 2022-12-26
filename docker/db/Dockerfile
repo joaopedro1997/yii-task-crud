@@ -1,0 +1,4 @@
+FROM mysql:8
+
+ENV MYSQL_ROOT_PASSWORD local_9p^1Sd.66+c!O
+ENV MYSQL_DATABASE local_db
